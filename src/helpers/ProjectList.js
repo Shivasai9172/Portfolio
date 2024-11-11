@@ -40,7 +40,7 @@ export const ProjectList = [
         image: PortfolioLogo,
         skills: "React,React Router, CSS",
         codeLink: "https://github.com/Shivasai9172/Portfolio",
-        demoLink: "https://saurabhkhatmode.netlify.app/",
+        demoLink: "https://portfolio-theta-sepia-42.vercel.app/",
         info: "I created a personal portfolio website using React JS, HTML, and CSS to showcase my projects and skills. The website serves as a platform for people to learn more about me and my professional accomplishments.My portfolio features information about my education, work experience, and technical skills, as well as a section highlighting my completed projects. Overall, my portfolio serves as a valuable asset in advancing my career and achieving my professional goals.",
     },
 
